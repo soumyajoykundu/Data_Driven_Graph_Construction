@@ -6,8 +6,7 @@ CMI MSc DS | Linear Algebra and its Applications | Project
 1. This GitHub repository contains code and resources related to graph partitioning techniques.
 2. The aim of this repository is to provide implementations and demonstrations of various graph partitioning algorithms.
 3. Graph partitioning is a fundamental task in data analysis and computational sciences, with widespread applications in fields such as social network analysis, bioinformatics, and computer vision.
-4. I initiated my exploration of this topic through an in-depth study of a seminal paper, [Fiedler’s Theory of Spectral Graph Partitioning]([https://www.linkedin.com/in/your-linkedin-profile/)
-](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=beeee28a9c52287ac9a20868d067d1ed20788036)
+4. I initiated my exploration of this topic through an in-depth study of a seminal paper, [Fiedler’s Theory of Spectral Graph Partitioning](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=beeee28a9c52287ac9a20868d067d1ed20788036)
 ## Contents
 
 The repository includes implementations of popular graph partitioning algorithms such as Spectral partitioning, k-means, and DBSCAN. Additionally, the repository contains sample generated dataset used for experimentation of conversion from tabular to graph data, which is then used to explore insights using clustering or partitioning.
