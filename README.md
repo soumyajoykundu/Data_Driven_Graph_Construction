@@ -44,7 +44,7 @@ The repository includes implementations of popular graph partitioning algorithms
 Contributions to the repository are welcome. Users can contribute by adding new algorithms, improving existing implementations, or providing additional datasets.
 
 ## License
-1.The code in this repository is provided under the MIT License.
+1. The code in this repository is provided under the MIT License.
 2. Users are free to use, modify, and distribute the code for both commercial and non-commercial purposes, with appropriate attribution.
 
 ## Contact
